@@ -43,7 +43,7 @@ This project was built using modern Android development practices and libraries.
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/HarshithPancheru/WatchIt.git](https://github.com/HarshithPancheru/WatchIt.git)
+    git clone https://github.com/HarshithPancheru/WatchIt.git
     ```
 2.  Open the project in Android Studio.
 3.  Get an API key from [The Movie Database (TMDB)](https://www.themoviedb.org/settings/api).
