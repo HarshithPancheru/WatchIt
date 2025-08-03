@@ -7,6 +7,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.devmosaic.watchit.screen.details.DetailScreen
+//import com.devmosaic.watchit.screen.details. DetailScreen
 import com.devmosaic.watchit.screen.home.HomeScreen
 
 @Composable

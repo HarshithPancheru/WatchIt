@@ -60,4 +60,25 @@ dependencies {
 
     implementation(libs.androidx.navigation.compose)
     implementation(libs.coil.compose)
+    // For Networking
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+
+// For loading images from a URL
+    implementation("io.coil-kt:coil-compose:2.5.0")
+
+    // Add this line for ViewModel integration with Compose
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.2")
+
+    implementation("androidx.compose.material:material-icons-extended:1.7.8")
+
+    implementation("androidx.datastore:datastore-preferences:1.1.1")
+
+    implementation("androidx.core:core-splashscreen:1.0.1")
+
+    implementation("androidx.compose.material3:material3:1.2.1")
+
+    implementation("com.google.android.material:material:1.12.0")
+
+
 }
